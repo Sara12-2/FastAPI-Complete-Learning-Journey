@@ -1,12 +1,12 @@
 # ⚡ FastAPI – Complete Learning Journey
 
-Welcome to my **FastAPI Complete Learning Journey** repository! 🚀
+Welcome to my **FastAPI Complete Learning Journey** repository! 
 
 This repository documents my journey of learning **FastAPI**, a modern, high-performance Python framework for building APIs and backend applications.
 
 The goal is to understand backend development concepts from beginner to advanced level through theoretical notes, practical code examples, hands-on exercises, and real-world projects.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand FastAPI fundamentals and backend architecture.
 - Build RESTful APIs using Python.
@@ -228,8 +228,6 @@ My learning methodology focuses on:
 
 To develop strong backend engineering skills using FastAPI and Python, and build scalable, secure, and efficient APIs for full-stack and AI-powered applications.
 
----
 
 **Learning, Building, and Growing as an AI-Powered Full Stack Engineer.** 💻🚀
 
-⭐ If you find this repository useful, feel free to explore and learn along!
